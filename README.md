@@ -1,25 +1,37 @@
 # SHAPEAI WEB DEV BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
-<br>I got to have hands on experience on:
-<li>HTML
-<li>CSS
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-www.shapeai.tech
-or follow SHAPEAI on:
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Portfolio</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <section id="main">
+      <nav>
+        <a href="#" class="logo">
+          <img src="https://w7.pngwing.com/pngs/131/330/png-transparent-technology-programming-language-programmer-computer-icons-technology-electronics-logo-head.png" alt="Logo">
+        </a>
+        <span class="menu-space"></span>
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Skills</a></li>
+          <li><a href="#">Recent</a></li>
+          <li><a href="#">Client</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        <a href="#" class="hey"><strong>Hi Folks!</strong></a>
+      </nav>
+      </section>
+  <div class="Content">
+    <div class="image">
+      <img src="https://img.theweek.in/content/dam/week/news/sci-tech/images/2019/10/9/live-coding.jpg" alt="shivangi">
+    </div>
+    <div class="main-text">
+        <h1>Hello, I am Shivangi</h1>
+        <p>Let's dive deep into the world of 0's and 1's</p>
+        <a href="#" class="resume-btn">see my resume</a>
+    </div>
+  </div>
+  </body>
+</html>
